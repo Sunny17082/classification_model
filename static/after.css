@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    font-family: 'Poppins', sans-serif;
+    height: 60vh;
+    width: 100%;
+    gap: 35px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main a {
+    color: #000;
+    cursor: pointer;
+}
